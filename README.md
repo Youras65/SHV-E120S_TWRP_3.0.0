@@ -1,10 +1,10 @@
-How to use
+## How to use
 
 In Odin, insert this file into the PDA and press Start
 
 and enjoy hehe
 
-Not Working:
+## Not Working:
 
 Broken Boot logo
 
@@ -19,4 +19,4 @@ ADB Sideload
 Mount USB storage
 
 
-Source: SGH-I717 TWRP-3.0.0
+## Source: SGH-I717 TWRP-3.0.0 
