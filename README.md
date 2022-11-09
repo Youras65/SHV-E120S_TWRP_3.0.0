@@ -1,6 +1,6 @@
 ## How to use
 
-In Odin, insert this file into the PDA and press Start
+In Odin, insert this file into the PDA and press Start (Do not decompress .tar)
 
 and enjoy hehe
 
